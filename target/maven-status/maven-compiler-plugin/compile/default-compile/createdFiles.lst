@@ -1,8 +1,13 @@
 com\mycompany\testsendemail\FormSendEmail$2.class
 com\mycompany\testsendemail\TestSendEmail.class
-com\mycompany\testsendemail\FormSendEmail.class
+com\mycompany\testsendemail\EmailSender$2.class
 com\mycompany\testsendemail\FormSendEmail$1.class
 com\mycompany\testsendemail\FormSendEmail$3.class
-com\mycompany\testsendemail\FormSendEmail$5.class
-com\mycompany\testsendemail\FormSendEmail$4.class
+com\mycompany\testsendemail\EmailSender$1.class
 com\mycompany\testsendemail\FormSendEmail$6.class
+com\mycompany\testsendemail\EmailSender$4.class
+com\mycompany\testsendemail\FormSendEmail.class
+com\mycompany\testsendemail\EmailSender.class
+com\mycompany\testsendemail\FormSendEmail$5.class
+com\mycompany\testsendemail\EmailSender$3.class
+com\mycompany\testsendemail\FormSendEmail$4.class
